@@ -16,4 +16,6 @@ So, I invite you to join me on this scholarly journey that merges Python, crypto
 
 ##How to use the Notebook for the oral exam
 ---
-This Notebook is created to be run in Google Colab. You can download the Notebook and upload it to Google Colab. You'll need different credentials for the used APIs and Database. I created a JSON-file with all the credentials. If you didn't receive it by e-mail for the review, feel free to send me an e-mail to (pfeifsas@....). All steps are explained i the Notebook itself. 
+This notebook is designed to be executed in Google Colab. To run the notebook, you can download it and upload it to your Google Colab environment. However, please note that you will need specific credentials for the APIs and database used in this notebook.
+
+I have prepared a JSON file containing all the required credentials. There's an upload function for the credentials within the code. Please do not push the credentials to any public repository. If you haven't received the JSON-file via email for the review, please feel free to send me an email at pfeifsas@... and I will provide you with the necessary credentials.
